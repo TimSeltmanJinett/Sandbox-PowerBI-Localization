@@ -1,0 +1,22 @@
+{
+    "Role_Category_Key": "Datos de Categoría",
+    "Role_Category_DescriptionKey": "Datos de categoría",
+
+    "Role_Measure_Key": "Medir Datos",
+    "Role_Measure_DescriptionKey": "Medir datos",
+
+    "DataPoint_Card_DefaultColor_Key": "Color Predeterminado",
+    "DataPoint_Card_DefaultColor_DescriptionKey": "Color predeterminado",
+
+    "DataPoint_Card_ShowAllDataPoints_Key": "Mostrar Todo",
+    "DataPoint_Card_ShowAllDataPoints_DescriptionKey": "Mostrar todo",
+
+    "DataPoint_Card_Fill_Key": "Llenar",
+    "DataPoint_Card_Fill_DescriptionKey": "Llenar",
+
+    "DataPoint_Card_FillRule_Key": "Saturación de Color",
+    "DataPoint_Card_FillRule_DescriptionKey": "Saturación de color",
+
+    "DataPoint_Card_FontSize_Key": "Tamano del Texto",
+    "DataPoint_Card_FontSize_DescriptionKey": "Tamano del texto"
+}
