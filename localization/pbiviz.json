@@ -5,14 +5,14 @@
         "guid": "localization92A514BC517044E1A14636BD115A628A",
         "visualClassName": "Visual",
         "version": "1.0.0",
-        "description": "",
-        "supportUrl": "",
+        "description": "Test localization within Power BI",
+        "supportUrl": "https://jinett.com/",
         "gitHubUrl": ""
     },
     "apiVersion": "5.2.0",
     "author": {
-        "name": "",
-        "email": ""
+        "name": "Timothy Seltman",
+        "email": "tseltma1@jinett.com"
     },
     "assets": {
         "icon": "assets/icon.png"

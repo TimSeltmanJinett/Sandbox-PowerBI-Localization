@@ -5,6 +5,8 @@
     "Role_Measure_Key": "Medir Datos",
     "Role_Measure_DescriptionKey": "Medir datos",
 
+    "DataPoint_Card_Key": "Punto de Datos",
+
     "DataPoint_Card_DefaultColor_Key": "Color Predeterminado",
     "DataPoint_Card_DefaultColor_DescriptionKey": "Color predeterminado",
 

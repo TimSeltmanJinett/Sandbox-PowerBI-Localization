@@ -5,6 +5,8 @@
     "Role_Measure_Key": "Measure Data",
     "Role_Measure_DescriptionKey": "Measure Data",
 
+    "DataPoint_Card_Key": "Data Point",
+
     "DataPoint_Card_DefaultColor_Key": "Default color",
     "DataPoint_Card_DefaultColor_DescriptionKey": "Default color",
 

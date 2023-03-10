@@ -5,8 +5,8 @@ import VisualConstructorOptions = powerbiVisualsApi.extensibility.visual.VisualC
 import DialogConstructorOptions = powerbiVisualsApi.extensibility.visual.DialogConstructorOptions;
 var powerbiKey: any = "powerbi";
 var powerbi: any = window[powerbiKey];
-var localization92A514BC517044E1A14636BD115A628A_DEBUG: IVisualPlugin = {
-    name: 'localization92A514BC517044E1A14636BD115A628A_DEBUG',
+var localization92A514BC517044E1A14636BD115A628A: IVisualPlugin = {
+    name: 'localization92A514BC517044E1A14636BD115A628A',
     displayName: 'localization',
     class: 'Visual',
     apiVersion: '5.2.0',
@@ -27,6 +27,6 @@ var localization92A514BC517044E1A14636BD115A628A_DEBUG: IVisualPlugin = {
 if (typeof powerbi !== "undefined") {
     powerbi.visuals = powerbi.visuals || {};
     powerbi.visuals.plugins = powerbi.visuals.plugins || {};
-    powerbi.visuals.plugins["localization92A514BC517044E1A14636BD115A628A_DEBUG"] = localization92A514BC517044E1A14636BD115A628A_DEBUG;
+    powerbi.visuals.plugins["localization92A514BC517044E1A14636BD115A628A"] = localization92A514BC517044E1A14636BD115A628A;
 }
-export default localization92A514BC517044E1A14636BD115A628A_DEBUG;
+export default localization92A514BC517044E1A14636BD115A628A;
